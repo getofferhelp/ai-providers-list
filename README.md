@@ -338,7 +338,7 @@ New
 - API密钥获取: [点击这里](https://platform.openai.com/api-keys)
 
 
-### GPT-4 Opus
+### GPT-4 O
 - 模型ID: `gpt-4o-2024-08-06`
 - 上下文窗口: 128,000 tokens
 - 价格:
@@ -346,7 +346,7 @@ New
   - 输出: $100.00/1M tokens
 
 
-### GPT-4 Opus Mini
+### GPT-4 O Mini
 - 模型ID: `gpt-4o-mini-2024-07-18`
 - 上下文窗口: 128,000 tokens
 - 价格:
