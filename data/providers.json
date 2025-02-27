@@ -348,8 +348,8 @@
           "name": "GPT-4 O",
           "contextWindow": 128000,
           "price": {
-            "input": 0.0000250,
-            "output": 0.0001000
+            "input": 0.000250,
+            "output": 0.001000
           }
         },
         {
@@ -357,8 +357,8 @@
           "name": "GPT-4 O Mini",
           "contextWindow": 128000,
           "price": {
-            "input": 0.0000015,
-            "output": 0.0000060
+            "input": 0.000015,
+            "output": 0.000060
           }
         },
         {
@@ -366,8 +366,8 @@
           "name": "O1",
           "contextWindow": 128000,
           "price": {
-            "input": 0.000150,
-            "output": 0.000600
+            "input": 0.00150,
+            "output": 0.00600
           }
         },
         {
@@ -375,8 +375,8 @@
           "name": "O3 Mini",
           "contextWindow": 128000,
           "price": {
-            "input": 0.0000110,
-            "output": 0.0000440
+            "input": 0.000110,
+            "output": 0.000440
           }
         },
         {
