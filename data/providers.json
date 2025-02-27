@@ -353,15 +353,6 @@
           }
         },
         {
-          "id": "gpt-4o-audio-preview-2024-12-17",
-          "name": "GPT-4 Opus Audio",
-          "contextWindow": 128000,
-          "price": {
-            "input": 0.00250,
-            "output": 0.01000
-          }
-        },
-        {
           "id": "gpt-4o-mini-2024-07-18",
           "name": "GPT-4 Opus Mini",
           "contextWindow": 128000,
@@ -424,8 +415,8 @@
           }
         },
         {
-          "id": "qwen-max",
-          "name": "Qwen Max",
+          "id": "qwen-2.5-max",
+          "name": "Qwen 2.5 Max",
           "contextWindow": 30000,
           "price": {
             "input": 0.002,
@@ -433,8 +424,8 @@
           }
         },
         {
-          "id": "qwen-max-longcontext",
-          "name": "Qwen Max Long Context",
+          "id": "qwen-2.5-max-longcontext",
+          "name": "Qwen 2.5 Max Long Context",
           "contextWindow": 150000,
           "price": {
             "input": 0.002,
