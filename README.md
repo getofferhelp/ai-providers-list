@@ -37,7 +37,7 @@ New
 | **Grok** | 1 | 8,192 | $2.00/1M - $2.00/1M |
 | **Kimi** | 3 | 131,072 | ¥12.00/1M - ¥12.00/1M |
 | **Mistral** | 3 | 32,000 | $2.00/1M - $6.00/1M |
-| **OpenAI** | 6 | 128,000 | $1.50/1M - $6.00/1M |
+| **OpenAI** | 5 | 128,000 | $1.50/1M - $6.00/1M |
 | **Qwen** | 4 | 150,000 | ¥2.00/1M - ¥2.00/1M |
 {: .table-responsive }
 
@@ -346,14 +346,6 @@ New
   - 输出: $100.00/1M tokens
 
 
-### GPT-4 Opus Audio
-- 模型ID: `gpt-4o-audio-preview-2024-12-17`
-- 上下文窗口: 128,000 tokens
-- 价格:
-  - 输入: $25.00/1M tokens
-  - 输出: $100.00/1M tokens
-
-
 ### GPT-4 Opus Mini
 - 模型ID: `gpt-4o-mini-2024-07-18`
 - 上下文窗口: 128,000 tokens
@@ -408,16 +400,16 @@ New
   - 输出: ¥10.00/1M tokens
 
 
-### Qwen Max
-- 模型ID: `qwen-max`
+### Qwen 2.5 Max
+- 模型ID: `qwen-2.5-max`
 - 上下文窗口: 30,000 tokens
 - 价格:
   - 输入: ¥20.00/1M tokens
   - 输出: ¥20.00/1M tokens
 
 
-### Qwen Max Long Context
-- 模型ID: `qwen-max-longcontext`
+### Qwen 2.5 Max Long Context
+- 模型ID: `qwen-2.5-max-longcontext`
 - 上下文窗口: 150,000 tokens
 - 价格:
   - 输入: ¥20.00/1M tokens
