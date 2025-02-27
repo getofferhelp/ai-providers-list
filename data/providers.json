@@ -345,7 +345,7 @@
       "models": [
         {
           "id": "gpt-4o-2024-08-06",
-          "name": "GPT-4 Opus",
+          "name": "GPT-4 O",
           "contextWindow": 128000,
           "price": {
             "input": 0.00250,
@@ -354,7 +354,7 @@
         },
         {
           "id": "gpt-4o-mini-2024-07-18",
-          "name": "GPT-4 Opus Mini",
+          "name": "GPT-4 O Mini",
           "contextWindow": 128000,
           "price": {
             "input": 0.00015,
