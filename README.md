@@ -37,7 +37,7 @@ New
 | **Grok** | 1 | 8,192 | $2.00/1M - $2.00/1M |
 | **Kimi** | 3 | 131,072 | ¥12.00/1M - ¥12.00/1M |
 | **Mistral** | 3 | 32,000 | $2.00/1M - $6.00/1M |
-| **OpenAI** | 4 | 128,000 | $5.00/1M - $15.00/1M |
+| **OpenAI** | 6 | 128,000 | $1.50/1M - $6.00/1M |
 | **Qwen** | 4 | 150,000 | ¥2.00/1M - ¥2.00/1M |
 {: .table-responsive }
 
@@ -338,36 +338,52 @@ New
 - API密钥获取: [点击这里](https://platform.openai.com/api-keys)
 
 
-### GPT-4 Turbo
-- 模型ID: `gpt-4-turbo-preview`
+### GPT-4 Opus
+- 模型ID: `gpt-4o-2024-08-06`
 - 上下文窗口: 128,000 tokens
 - 价格:
-  - 输入: $100.00/1M tokens
-  - 输出: $300.00/1M tokens
+  - 输入: $25.00/1M tokens
+  - 输出: $100.00/1M tokens
 
 
-### GPT-4 Vision
-- 模型ID: `gpt-4-vision-preview`
+### GPT-4 Opus Audio
+- 模型ID: `gpt-4o-audio-preview-2024-12-17`
 - 上下文窗口: 128,000 tokens
 - 价格:
-  - 输入: $100.00/1M tokens
-  - 输出: $300.00/1M tokens
+  - 输入: $25.00/1M tokens
+  - 输出: $100.00/1M tokens
 
 
-### GPT-4
-- 模型ID: `gpt-4`
-- 上下文窗口: 8,192 tokens
+### GPT-4 Opus Mini
+- 模型ID: `gpt-4o-mini-2024-07-18`
+- 上下文窗口: 128,000 tokens
 - 价格:
-  - 输入: $300.00/1M tokens
+  - 输入: $1.50/1M tokens
+  - 输出: $6.00/1M tokens
+
+
+### O1
+- 模型ID: `o1-2024-12-17`
+- 上下文窗口: 128,000 tokens
+- 价格:
+  - 输入: $150.00/1M tokens
   - 输出: $600.00/1M tokens
 
 
-### GPT-3.5 Turbo
-- 模型ID: `gpt-3.5-turbo`
-- 上下文窗口: 16,385 tokens
+### O3 Mini
+- 模型ID: `o3-mini-2025-01-31`
+- 上下文窗口: 128,000 tokens
 - 价格:
-  - 输入: $5.00/1M tokens
-  - 输出: $15.00/1M tokens
+  - 输入: $11.00/1M tokens
+  - 输出: $44.00/1M tokens
+
+
+### O1 Mini
+- 模型ID: `o1-mini-2024-09-12`
+- 上下文窗口: 128,000 tokens
+- 价格:
+  - 输入: $11.00/1M tokens
+  - 输出: $44.00/1M tokens
 
 ---
 
