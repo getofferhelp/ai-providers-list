@@ -1,5 +1,5 @@
 {
-  "version": "2025-02-27",
+  "version": "2025-02-28",
   "providers": [
     {
       "id": "anthropic",
@@ -384,8 +384,8 @@
           "name": "O1 Mini",
           "contextWindow": 128000,
           "price": {
-            "input": 0.0000110,
-            "output": 0.0000440
+            "input": 0.000110,
+            "output": 0.000440
           }
         }
       ]
